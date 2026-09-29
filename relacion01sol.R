@@ -9,7 +9,8 @@ res1
 #Problema 2u 
 
 media=function(x){
-  returun(sum(x)/length(x))
+  return(sum(x)/length(x))
   }
 
 ##Probando
+##PRUEBA SI FUNCIONA
